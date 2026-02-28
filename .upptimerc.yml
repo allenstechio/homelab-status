@@ -7,8 +7,6 @@ sites:
     url: https://allenstech.io
   - name: Seer
     url: https://request.allenstech.io
-  - name: Azure
-    url: https://portal.azure.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
