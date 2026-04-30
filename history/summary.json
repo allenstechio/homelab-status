@@ -4,10 +4,10 @@
     "url": "https://allenstech.io",
     "icon": "https://icons.duckduckgo.com/ip3/allenstech.io.ico",
     "slug": "allenstech-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
@@ -15,16 +15,18 @@
     "timeWeek": 213,
     "timeMonth": 205,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-30": 2
+    }
   },
   {
     "name": "Seer",
     "url": "https://request.allenstech.io",
     "icon": "https://icons.duckduckgo.com/ip3/request.allenstech.io.ico",
     "slug": "seer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
@@ -34,6 +36,7 @@
     "timeMonth": 374,
     "timeYear": 429,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-03-16": 545
     }
   },
