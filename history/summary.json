@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 219,
-    "timeDay": 145,
-    "timeWeek": 151,
-    "timeMonth": 188,
-    "timeYear": 219,
+    "time": 220,
+    "timeDay": 279,
+    "timeWeek": 174,
+    "timeMonth": 193,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2026-04-30": 93
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.allenstech.io.ico",
     "slug": "seer",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
-    "time": 418,
-    "timeDay": 340,
-    "timeWeek": 375,
-    "timeMonth": 425,
-    "timeYear": 418,
+    "uptimeYear": "99.67%",
+    "time": 419,
+    "timeDay": 436,
+    "timeWeek": 395,
+    "timeMonth": 428,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2026-03-16": 545,
       "2026-04-30": 91
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 230,
-    "timeDay": 142,
-    "timeWeek": 166,
-    "timeMonth": 200,
-    "timeYear": 230,
+    "time": 229,
+    "timeDay": 190,
+    "timeWeek": 173,
+    "timeMonth": 196,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2026-03-16": 545
     }
