@@ -12,8 +12,8 @@
     "uptimeYear": "99.69%",
     "time": 218,
     "timeDay": 143,
-    "timeWeek": 191,
-    "timeMonth": 210,
+    "timeWeek": 190,
+    "timeMonth": 209,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-04-30": 93,
@@ -27,14 +27,14 @@
     "slug": "seer",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.61%",
     "time": 429,
     "timeDay": 447,
-    "timeWeek": 431,
-    "timeMonth": 454,
+    "timeWeek": 414,
+    "timeMonth": 455,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2026-03-16": 545,
@@ -42,7 +42,7 @@
       "2026-07-30": 62,
       "2026-07-31": 155,
       "2026-08-14": 71,
-      "2026-08-18": 47
+      "2026-08-18": 35
     }
   },
   {
@@ -51,22 +51,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.allenstech.io.ico",
     "slug": "gokapi",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.65%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.65%",
     "time": 232,
     "timeDay": 214,
-    "timeWeek": 195,
-    "timeMonth": 236,
+    "timeWeek": 189,
+    "timeMonth": 233,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2026-03-16": 545,
       "2026-07-30": 62,
       "2026-07-31": 155,
       "2026-08-14": 71,
-      "2026-08-18": 46
+      "2026-08-18": 35
     }
   }
 ]
